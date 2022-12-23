@@ -1,0 +1,31 @@
+﻿<Window x:Class="Kursovaya1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursovaya1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="707.279" Width="960.25">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF849FAC" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <UniformGrid x:Name="grid" Width="566" Margin="282,10,0,0" HorizontalAlignment="Left" Height="649" VerticalAlignment="Top" />
+        <Button x:Name="Start" Content="Start" HorizontalAlignment="Left" Margin="48,98,0,0" VerticalAlignment="Top" Width="146" Background="{x:Null}" Click="Start_Click" Height="74" BorderBrush="{x:Null}" Foreground="#FF2600A8" FontFamily="Gill Sans MT" FontSize="60"/>
+        <Label x:Name="lb" Content="" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="244" Height="48" FontSize="30" FontFamily="Gill Sans MT" Background="#33001B42"/>
+        <Label x:Name="points" Content="Label" HorizontalAlignment="Left" Margin="66,248,0,0" VerticalAlignment="Top" Width="146" Height="60" FontSize="50" FontFamily="Gill Sans MT" Foreground="#FF236178"/>
+        <Label x:Name="PlayerName" Content="Your Name:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="228" Height="44" FontSize="25" FontFamily="Gill Sans MT"/>
+        <ListBox x:Name="winTable" HorizontalAlignment="Left" Height="275" Margin="10,384,0,0" VerticalAlignment="Top" Width="244" BorderBrush="{x:Null}" Background="#19000000" FontFamily="Gill Sans MT" FontSize="20"/>
+        <Label Content="Player    Score" HorizontalAlignment="Left" Height="49" Margin="10,330,0,0" VerticalAlignment="Top" Width="228" FontFamily="Gill Sans MT" FontSize="30"/>
+        <TextBox x:Name="playername" HorizontalAlignment="Left" Height="39" Margin="10,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="244" FontSize="25" Background="{x:Null}" BorderBrush="#FF00144F" FontFamily="Gill Sans MT"/>
+    </Grid>
+</Window>

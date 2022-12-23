@@ -1,0 +1,14 @@
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\bin\Debug\Kursovaya1.exe.config
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\bin\Debug\Kursovaya1.exe
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\bin\Debug\Kursovaya1.pdb
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\MainWindow.g.cs
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\App.g.cs
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1_MarkupCompile.cache
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1_MarkupCompile.lref
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\MainWindow.baml
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.g.resources
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.Properties.Resources.resources
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.csproj.GenerateResource.cache
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.exe
+C:\Users\Аня\Desktop\Kursovaya1\Kursovaya1\obj\Debug\Kursovaya1.pdb
